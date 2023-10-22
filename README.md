@@ -5,7 +5,7 @@ Writing code since 2010 and working remotely since 2013, I talk about Software E
 
 Currently, I am working as a Technical Lead at HubSpot. HubSpot is the world's leading inbound marketing, sales and CRM software platform.
 
-In my spare time, I am organizing The Engineering Book Club, an online community of professionals who enjoy reading engineering books together.
+In my spare time, I am organizing [The Engineering Book Club](https://engineeringbookclub.com/), an online community of professionals who enjoy reading engineering books together.
 
 
 You can find more information about me on my personal website: [www.miguelangelmartin.me](https://www.miguelangelmartin.me)
